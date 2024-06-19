@@ -28,7 +28,7 @@
 
 </div>
 
-![IratoDev Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![IratoDev Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IratoDev&langs_count=8)
 
 Desenvolvedor apaixonado por tecnologia e inovação. Sempre em busca de novos desafios e aprendizado contínuo. 🚀
 
