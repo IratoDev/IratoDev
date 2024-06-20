@@ -1,9 +1,13 @@
 
 ### Olá! Meu Nome É Renan Irato
 
+<div style="display:inline_block" > 
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/irato.dev?igsh=OHFsNm85aDJkMGQ5)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-irato-135b33248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+</div> 
 
 ### Tecnologias que eu uso no dia a dia 
 
